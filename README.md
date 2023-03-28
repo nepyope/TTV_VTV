@@ -1,11 +1,6 @@
-# Text-to-Video Synthesis
+# TTV
 
-This repository contains a deep learning-based text-to-video synthesis model that allows you to generate videos from text prompts and perform video-to-video transformations. The model utilizes a combination of OpenCLIP, Gaussian Diffusion, and VQGAN autoencoder to synthesize videos from text descriptions. Original code can be found [here](https://huggingface.co/damo-vilab/modelscope-damo-text-to-video-synthesis), all credits 
-
-
-This repository adds VTV functionality to [modelscope-damo-text-to-video-synthesis](https://huggingface.co/damo-vilab/modelscope-damo-text-to-video-synthesis) and optimizes memory usage by decoding frames sequentially,
-allowing for larger image resolution and longer video duration
-
+This repository enhances the [modelscope-damo-text-to-video-synthesis](https://huggingface.co/damo-vilab/modelscope-damo-text-to-video-synthesis) by adding VTV functionality, while also optimizing memory usage. By decoding frames sequentially instead of in batches, it enables larger image resolutions and longer video durations.
 ## VTV
 
 1. A cow running a marathon
