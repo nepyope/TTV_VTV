@@ -1,6 +1,6 @@
 # TTV
 
-This repository enhances the [modelscope-damo-text-to-video-synthesis](https://huggingface.co/damo-vilab/modelscope-damo-text-to-video-synthesis) by adding VTV functionality, while also optimizing memory usage. By decoding frames sequentially instead of in batches, it enables larger image resolutions and longer video durations.
+This repository enhances [modelscope-damo-text-to-video-synthesis](https://huggingface.co/damo-vilab/modelscope-damo-text-to-video-synthesis) by adding VTV functionality, while also optimizing memory usage. By decoding frames sequentially instead of in batches, it enables larger image resolutions and longer video durations.
 ## VTV
 
 1. A cow running a marathon
