@@ -11,6 +11,6 @@ allowing for larger image resolution and longer video duration
 1. A cow running a marathon
 ![](samples/cow.png?raw=true)
 2. A cow running a marathon in hell
-![](samples/hell cow.png?raw=true)
+![](samples/hell_cow.png?raw=true)
 3. A dog running a marathon
 ![](samples/dog.png?raw=true)
